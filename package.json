@@ -1,0 +1,25 @@
+{
+  "name": "react-condition",
+  "version": "1.0.0",
+  "description": "React Conditional Renderer Component that allows you to write jsx like a template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyaesone17/react-condition.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "if else",
+    "conditional"
+  ],
+  "author": "pyaesone17",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pyaesone17/react-condition/issues"
+  },
+  "homepage": "https://github.com/pyaesone17/react-condition#readme"
+}
