@@ -1,4 +1,4 @@
-# react-condition
+# React Condition
 React Conditional Renderer Component that allows you to write jsx like a template engine. It will be helpful for 
 developer who comes from backend environment.
 
