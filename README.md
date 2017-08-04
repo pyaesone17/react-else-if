@@ -1,7 +1,9 @@
 # react-condition
- React Conditional Renderer Component that allows you to write jsx like a template engine
- 
- It allows u to render everything like a template engine like this
+React Conditional Renderer Component that allows you to write jsx like a template engine. It will be helpful for 
+developer who comes from backend environment.
+
+# Usage 
+It allows u to render everything like a template engine like this
  
 ```jsx
   <Condition>
@@ -37,3 +39,10 @@ It also support for ElseIf block to make ur life more easier.
     </Else>
   </Condition>
 ```
+
+# Note
+
+Since javascript allow you more control, you should still use javascript for render you views. 
+Nothing more, it is just my private component, that i keep using in my project and I want to share.
+
+
