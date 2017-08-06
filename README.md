@@ -2,11 +2,15 @@
 React Conditional Renderer Component that allows you to write jsx like a template engine. It will be helpful for 
 developer who comes from backend environment.
 
+# Installation
+npm install react-else-if
+yarn add react-else-if
+
 # Usage 
 It allows u to render everything like a template engine like this
  
 ```jsx
-  import Condition,{If, Else, ElseIf} from 'react-condition';
+  import Condition,{If, Else, ElseIf} from 'react-else-if';
   
   <Condition>
     <If is={false}>
@@ -21,7 +25,7 @@ It allows u to render everything like a template engine like this
 It also support for ElseIf block to make ur life more easier.
 
 ```jsx
-  import Condition,{If, Else, ElseIf} from 'react-condition';
+  import Condition,{If, Else, ElseIf} from 'react-else-if';
   
   <Condition>
     <If is={false}>
