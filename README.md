@@ -53,4 +53,9 @@ It also support for ElseIf block to make ur life more easier.
 Since javascript allow you more control, you should still use javascript for render you views. 
 Nothing more, it is just my private component, that i keep using in my project and I want to share.
 
+# Future
+
+In the next major version, the package will provide switch statement.
+
+
 
