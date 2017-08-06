@@ -1,6 +1,6 @@
 {
-  "name": "react-condition",
-  "version": "1.0.0",
+  "name": "react-else-if",
+  "version": "1.0.1",
   "description": "React Conditional Renderer Component that allows you to write jsx like a template engine",
   "main": "lib/index.js",
   "scripts": {
@@ -8,24 +8,25 @@
     "build:watch": "babel lib -w -d build",
     "lint": "eslint lib/**; exit 0",
     "lint:watch": "esw -w lib/**",
-    "prepublish": "npm run build"
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pyaesone17/react-condition.git"
+    "url": "git+https://github.com/pyaesone17/react-else-if.git"
   },
   "keywords": [
     "react",
     "react-component",
-    "if else",
-    "conditional"
+    "if else elseif",
+    "conditional",
+    "react condition"
   ],
   "author": "pyaesone17",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pyaesone17/react-condition/issues"
+    "url": "https://github.com/pyaesone17/react-else-if/issues"
   },
-  "homepage": "https://github.com/pyaesone17/react-condition#readme",
+  "homepage": "https://github.com/pyaesone17/react-else-if#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.25.0",
