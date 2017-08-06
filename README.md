@@ -6,6 +6,8 @@ developer who comes from backend environment.
 It allows u to render everything like a template engine like this
  
 ```jsx
+  import Condition,{If, Else, ElseIf} from 'react-condition';
+  
   <Condition>
     <If is={false}>
         If condition                       
@@ -19,6 +21,8 @@ It allows u to render everything like a template engine like this
 It also support for ElseIf block to make ur life more easier.
 
 ```jsx
+  import Condition,{If, Else, ElseIf} from 'react-condition';
+  
   <Condition>
     <If is={false}>
         If condition
